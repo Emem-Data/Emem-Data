@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Umoren Emem, a Nigerian.
-- 💞️ I am a Tech enthusiast
+- 💞️ I am a tech enthusiast
 - 👀 My career goal is to become a Data Scientist.
 - 🌱 I’m currently learning Python and SQL for Data Analysis.
 - 💞️ I’m looking to collaborate on Open-source projects centered around Data Analysis  ...
