@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Umoren Emem, a Nigerian.
+- 👋 Hello, my name is Umoren Emem Olushola, a Nigerian.
 - 💞️ I am a tech enthusiast
 - 👀 My career goal is to become a Data Scientist.
 - 🌱 I’m currently learning Python and SQL for Data Analysis.
